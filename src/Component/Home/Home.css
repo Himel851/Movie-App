@@ -150,7 +150,7 @@
       }
       .home {
         position: relative;
-        margin-bottom: 25vh;
+        margin-bottom: 35vh;
         height: 60vh !important;
       }
       .coverImage img {
@@ -161,9 +161,9 @@
         flex-direction: column;
         padding: 50px;
       }
-      .details p{
+      /* .details p{
         display: none;
-      }
+      } */
       .playButton{
         display: none;
       }
