@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from 'react'
 import { trending } from '../Data/Data';
 import HomeSlider from '../Home/HomeSlider';
-import './Trending.css'
+import './Trending.scss'
 
 const Trending = () => {
     const [items, setItems] = useState(trending);
